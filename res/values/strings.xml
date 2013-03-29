@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">The simplest Widget</string>
+    <string name="hello_world">Hello, world!</string>
+    <string name="errorInvalidAppWidgetId">Invalid application widget identifier.</string>
+    <string name="last_update_time">Last update time is\n%s</string>
+
+</resources>
