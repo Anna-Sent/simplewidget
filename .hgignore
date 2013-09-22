@@ -1,0 +1,10 @@
+syntax: glob
+*.class
+bin//*
+gen//*
+.settings//*
+.hgignore
+*.jar
+.classpath
+.project
+project.properties
